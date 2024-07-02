@@ -1,5 +1,8 @@
 ## Hi, I am Rahat Faruk
 
+<img src="https://i.postimg.cc/Zqfg0VP9/cover.png" width="100%"> 
+<br> <br>
+
 I am a junior frontend web developer. I have built several frontend projects for more than 2 years. When building project, I focus on simple, less cluttering but user-friendly design. I also like to write custom handwritten code so that the code becomes well-commented, easy to understand and scalable. As a lifelong learner, I always try to learn something new and try to implement new ideas. 
 
 - Currently I am available for work 
