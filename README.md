@@ -1,6 +1,6 @@
 ## Hi, I am Rahat Faruk
 
-<img src="https://i.postimg.cc/Zqfg0VP9/cover.png" width="100%"> 
+<img src="https://i.postimg.cc/cL1jMpL9/cover.png" width="100%"> 
 
 I am a junior frontend web developer. I have built several frontend projects for more than 2 years. When building project, I focus on simple, less cluttering but user-friendly design. I also like to write custom handwritten code so that the code becomes well-commented, easy to understand and scalable. As a lifelong learner, I always try to learn something new and try to implement new ideas. 
 
@@ -17,6 +17,6 @@ I am a junior frontend web developer. I have built several frontend projects for
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahatfaruk&show_icons=true&locale=en&layout=compact" alt="rahatfaruk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahatfaruk&show_icons=true&locale=en" alt="rahatfaruk" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahatfaruk&" alt="rahatfaruk" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahatfaruk&show_icons=true&locale=en" alt="rahatfaruk" /></p>
